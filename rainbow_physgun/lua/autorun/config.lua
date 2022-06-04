@@ -1,9 +1,9 @@
 
 -----------------------------------------------------
--- This file will be used to add groups to the rainbow_physgun whitelist.
+-- Bu dosya, Rainbow_physgun beyaz listesine gruplar eklemek için kullanılacaktır.
 
 
--- Adding groups:
+--Grup ekleme:
 
 function AddGroups()
 if not SERVER then return end
